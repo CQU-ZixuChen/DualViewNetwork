@@ -1,6 +1,8 @@
 # DualViewNetwork
 This is the source code of DVN. This method was proposed in **A Dual-View Network For Imbalanced Fault Diagnosis of Rotating Machinery**.
 
+![image](https://github.com/CQU-ZixuChen/DualViewNetwork/blob/master/Framework.png)
+
 Dependicies:
 
 Python  --- 3.9
